@@ -23,4 +23,4 @@ $ ionic cordova run ios
 
 Substitua ios por android se nao estiver com um mac / iphone
 
-* obs: Conect seu smarthphone com o cabo usb antes de rodar este ultimo comando.
+* obs: Conecte seu smarthphone com o cabo usb antes de rodar este ultimo comando.
