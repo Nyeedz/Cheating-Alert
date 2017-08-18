@@ -8,7 +8,7 @@ Os arquivos de inicialização podem ser encontrados em [ionic2-app-base repo](h
 
 [Nodejs](https://nodejs.org/en/)
 
-Depoism rodar este comando
+Depois rodar este comando
 
 ```bash
 $ sudo npm install -g ionic cordova
@@ -21,6 +21,6 @@ $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
 
-Substitua ios por android se nao estiver com um mac/iphone
+Substitua ios por android se nao estiver com um mac / iphone
 
-*obs: Conect seu smarthphone com o cabo usb antes de rodar este ultimo comando.
+* obs: Conect seu smarthphone com o cabo usb antes de rodar este ultimo comando.
