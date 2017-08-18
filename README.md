@@ -17,6 +17,7 @@ $ sudo npm install -g ionic cordova
 Depois dentro da pasta da aplicação.
 
 ```bash
+$ npm install
 $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
