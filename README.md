@@ -1,26 +1,26 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+Este template for iniciado pelo projeto. [Ionic](http://ionicframework.com/docs/) 
 
-## How to use this template
+## Como usar este app
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+Os arquivos de inicialização podem ser encontrados em [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+### Requisito:
 
-### With the Ionic CLI:
+[Nodejs](https://nodejs.org/en/)
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Depoism rodar este comando
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
 ```
 
-Then, to run it, cd into `myBlank` and run:
+Depois dentro da pasta da aplicação.
 
 ```bash
 $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
 
-Substitute ios for android if not on a Mac.
+Substitua ios por android se nao estiver com um mac/iphone
 
+*obs: Conect seu smarthphone com o cabo usb antes de rodar este ultimo comando.
